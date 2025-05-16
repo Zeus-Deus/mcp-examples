@@ -1,0 +1,9 @@
+# Perplexity MCP Example (Docker)
+
+This folder contains an example of using the Model Context Protocol (MCP) with Perplexity, running entirely via Docker. You do **not** need Node.js or any other programming environment—just Docker and an MCP-compatible client!
+
+## Prerequisites
+
+- [Docker](https://www.docker.com/get-started) installed and running
+- An MCP-compatible client or tool (see [modelcontextprotocol.io](https://modelcontextprotocol.io/introduction) for options)
+- A Perplexity API key ([get one here](https://www.perplexity.ai/account/details))
