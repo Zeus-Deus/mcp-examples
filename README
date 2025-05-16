@@ -1,0 +1,30 @@
+# MCP Examples
+
+This repository contains examples for using the **Model Context Protocol (MCP)** with different AI models and tools.
+
+## What is MCP?
+
+**MCP (Model Context Protocol)** is an open standard (initially released by Anthropic in 2024) that defines a universal way for AI models to connect with external data sources, tools, and environments. Think of it as a "USB-C port for AI applications"—it standardizes how applications provide context to Large Language Models (LLMs), making it much easier to connect models to real-world data and services without building custom integrations for every tool or content source.
+
+For more information, see [Anthropic's announcement](https://www.anthropic.com/news/model-context-protocol) or the [MCP introduction](https://modelcontextprotocol.io/introduction).
+
+## About this repository
+
+This project is a collection of MCP examples. Each example is in its own folder and includes a README explaining what it is for and how to use it.
+
+- **perplexity-docker/**: An example of using MCP with Perplexity via Docker. (See the folder's README for details.)
+
+More examples will be added over time!
+
+## How to use
+
+- Browse the folders in this repository.
+- Each example has its own README with setup and usage instructions.
+
+---
+
+Feel free to fork or copy these examples for your own projects, and stay tuned for more MCP integrations!
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
